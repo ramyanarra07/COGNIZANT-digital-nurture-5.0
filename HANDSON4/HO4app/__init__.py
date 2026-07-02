@@ -1,0 +1,1 @@
+# Marks the courses directory as a Python package
