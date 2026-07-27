@@ -110,10 +110,13 @@ Modelled a `college_nosql.feedback` collection (course feedback: ratings, commen
 **Expected Outcome:** `db.feedback.countDocuments()` ≥ 10; tag/array queries return only matching CS101 feedback; the aggregation pipeline returns one document per course with `average_rating` rounded to 1 decimal; the tag leaderboard surfaces `'challenging'` near the top.
 
 **Output Screenshots:**
+
 **TASK-1**
 <img width="606" height="436" alt="image" src="https://github.com/user-attachments/assets/da592520-8a36-4cc2-bd38-5b6439603516" />
+
 **TASK-2**
 <img width="636" height="515" alt="image" src="https://github.com/user-attachments/assets/91320f5e-f4cf-4c29-977f-e1b6c16c6595" />
+
 **TASK-3**
 
 ---
@@ -127,11 +130,14 @@ Defined `Department`, `Student`, `Course`, `Enrollment`, and `Professor` ORM mod
 **Expected Outcome:** `python models.py` creates all 5 tables in `college_db_orm`; CRUD operations commit/query correctly; `echo=True` logs confirm the N+1 pattern is eliminated after adding `joinedload`.
 
 **Output Screenshots:**
+
 **TASK-1**
 <img width="820" height="630" alt="image" src="https://github.com/user-attachments/assets/b795eeb6-cb90-4982-a07a-9cb6f46ee167" />
 <img width="811" height="265" alt="image" src="https://github.com/user-attachments/assets/ed03305b-c4b2-43b8-8d47-c00268ddee8d" />
+
 **TASK-2**
 <img width="698" height="521" alt="image" src="https://github.com/user-attachments/assets/b08e8dd3-81fe-4672-8c45-7535389b149e" />
+
 **TASK-3**
 
 
@@ -150,6 +156,7 @@ Initialised Alembic (`alembic init migrations`), pointed it at `college_db_orm`,
 
 **TASK-1**
 <img width="777" height="593" alt="image" src="https://github.com/user-attachments/assets/6bdd96fc-12c3-4cb6-9d6f-466c236425d9" />
+
 **TASK-3**
 <img width="916" height="642" alt="image" src="https://github.com/user-attachments/assets/ef83a1c6-fbe0-4b42-a672-069afbf2e184" />
 
