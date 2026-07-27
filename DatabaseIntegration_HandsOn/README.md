@@ -124,6 +124,8 @@ Modelled a `college_nosql.feedback` collection (course feedback: ratings, commen
 
 **TASK-3**
 
+<img width="842" height="698" alt="image" src="https://github.com/user-attachments/assets/0be3713a-6720-4ec3-b9e5-c32ee4474ca4" />
+
 ---
 
 ## Hands-On 6 — ORM Integration: SQLAlchemy
@@ -148,7 +150,7 @@ Defined `Department`, `Student`, `Course`, `Enrollment`, and `Professor` ORM mod
 
 **TASK-3**
 
-
+<img width="1522" height="422" alt="image" src="https://github.com/user-attachments/assets/f3470ebb-827e-436d-afdf-17d2187d520b" />
 
 ---
 
