@@ -1,5 +1,7 @@
 # Digital Nurture 5.0 — Python Backend Frameworks
-### Python Backend Frameworks_HANDSON
+### Python Backend Frameworks
+## NAME : NARRA RAMYA
+## REG NO : 212223040128
 ---
 
 ## 📁 Project Structure
@@ -31,7 +33,7 @@ application. The same system is built three times — once each in **Django**, *
 
 ---
 
-## Hands-On 1 — Web Framework Foundations & Django Project Setup *(Beginner)*
+## Hands-On 1 — Web Framework Foundations & Django Project Setup 
 
 **Topics:** Web Framework Concepts · MVC/MVT Pattern · Request-Response Cycle · WSGI vs ASGI ·
 Django Project Setup · URL Routing & Middleware
@@ -49,13 +51,12 @@ wired it to `/api/hello/` in `urls.py`.
 
 **Output Screenshots:**
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/5fd9b1a2-b0fa-4a45-9026-260ea10bc63b" />
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/c9a8db0b-cca7-4440-bb3d-20d96224c676" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c58be577-5471-494e-94e7-d04f22c36bbd" />
 
 
 ---
 
-## Hands-On 2 — Django Models, ORM & Admin Interface *(Beginner)*
+## Hands-On 2 — Django Models, ORM & Admin Interface 
 
 **Topics:** Django Models · Field Types & Constraints · Migrations · Django ORM Queries ·
 Admin Interface Registration
@@ -74,11 +75,11 @@ expected results; the admin interface supports search/filter and rejects duplica
 
 **Output Screenshots:**
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/84c2faa5-3687-4c6e-8026-e17142a55932" />
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/bb2b9d86-5927-4c17-aa85-0e16f8af99d5" />
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/d5735b52-be31-4e4e-9e1f-44a062c2c12c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34b7a1d1-ba19-415d-889c-7955e305413d" />
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/f5fb9293-8396-4bd1-8e73-e4ac1227f5f9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/69227aba-9352-4ff8-9c0f-def42f1a8c61" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b559c1b6-04f4-4171-90a0-4f7882386cdb" />
 
 
 ---
@@ -100,11 +101,14 @@ custom `/students/` action returns the correctly filtered list of enrolled stude
 
 **Output Screenshots:**
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/cdf3d3c5-3eb5-401b-85e5-cf91dd99b234" />
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/8e5fc13a-f65b-4745-a61e-4b78e7aaf5b6" />
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/1914201f-50db-4b4f-bb18-0fd4554ba47a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/da9270e2-1329-473b-a8f2-07b925a98b59" />
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/0d2fbc6e-59e6-4b98-9a5a-6330f9353afa" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8306c740-d14d-4389-964d-32d3fa7d0f58" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/39faeb07-a160-474a-b850-d0966b74640d" />
+
+
 
 
 ---
