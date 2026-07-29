@@ -1,5 +1,7 @@
 # Digital Nurture 5.0 — Module 3: Database Integration
 ### Python Full Stack Engineer- Database Integration
+## NAME : NARRA RAMYA
+## REG NO : 212223040128
 
 This README documents the completed work for all **7 Hands-On exercises** of Module 3 (Database Integration), covering **MySQL, MongoDB, and Python ORM/Migrations**. It follows the single scenario used throughout the book — a **Student Course Registration System (`college_db`)**.
 
