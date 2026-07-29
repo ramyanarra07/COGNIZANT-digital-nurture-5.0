@@ -130,8 +130,13 @@ falls back to Flask's default HTML error pages.
 descriptive message; unknown course IDs return 404.
 
 **Output Screenshots:**
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/accdb187-d77c-4afe-81a9-87c547462ab1" />
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/5f5aa7c2-2c80-4beb-9335-c984bb5ebc5d" />
+
+<img width="1198" height="556" alt="image" src="https://github.com/user-attachments/assets/e1edda44-4955-4fec-b959-c1ed61fc2823" />
+
+<img width="1267" height="577" alt="image" src="https://github.com/user-attachments/assets/a0930237-8a34-41b3-9aa7-c94f9741271b" />
+
+<img width="1053" height="482" alt="image" src="https://github.com/user-attachments/assets/4f125357-f954-4010-8ff6-6613f3090cde" />
+<img width="1051" height="472" alt="image" src="https://github.com/user-attachments/assets/3250d91e-0094-436b-a7ff-c4fe6d82c4d6" />
 
 
 ---
@@ -152,10 +157,12 @@ each model, and wired a JOIN-based `/api/courses/<id>/students/` route.
 the database; the `/students/` route returns the correct enrolled students via a JOIN.
 
 **Output Screenshots:**
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/29c72b90-7796-470c-ad36-bda923a708c3" />
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/75305997-b71b-485b-8317-afbdc1639812" />
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/3a7cbfcf-de74-414a-a5c8-2a0319196bb0" />
+<img width="1048" height="480" alt="image" src="https://github.com/user-attachments/assets/668f9ebe-eafa-499d-939b-f74e61917bdb" />
+
+<img width="1273" height="577" alt="image" src="https://github.com/user-attachments/assets/1be81bb9-a278-4fb6-a45e-b4499bbbfe52" />
+<img width="1277" height="528" alt="image" src="https://github.com/user-attachments/assets/e9f8acd6-f4cf-4d0f-9f06-410bf94714d3" />
+
 
 ---
 
@@ -177,13 +184,13 @@ dependency.
 field-level errors; `GET /api/courses/?skip=&limit=` returns the correctly paginated subset.
 
 **Output Screenshots:**
+<img width="850" height="450" alt="image" src="https://github.com/user-attachments/assets/0e5c367e-a8ee-4b4a-a4ef-0cbc7942a76b" />
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/4412d1d1-5537-4241-992f-f22db2faafd8" />
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/3c7007d5-d8a5-46a8-8cce-26f28fad5c3d" />
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/3db11613-aae2-49b7-8fd6-c87a4fd2675f" />
+<img width="845" height="453" alt="image" src="https://github.com/user-attachments/assets/05a07169-a98e-4e85-a7a6-2da5e3a0e010" />
 
+<img width="1048" height="478" alt="image" src="https://github.com/user-attachments/assets/a3f6ff75-f3c6-4b47-bfaf-af60a55c0b52" />
 
-
+<img width="1048" height="475" alt="image" src="https://github.com/user-attachments/assets/39085518-cce1-4858-8afd-a1a078aec132" />
 
 ---
 
@@ -205,11 +212,11 @@ console; `/docs` shows grouped, well-documented endpoints.
 
 **Output Screenshots:**
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/961f7b72-c4d8-47ca-b78f-2a194c53c08d" />
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/ec758dd8-f890-4513-8e76-5e19de3013dd" />
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/972d8213-5caf-429f-9b5e-ab97f1630742" />
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/bb201d08-5507-4626-b7d5-fefdc2ae81da" />
+<img width="858" height="457" alt="image" src="https://github.com/user-attachments/assets/59ec4c98-aec1-4db4-91bb-6683a65a862f" />
 
+<img width="901" height="392" alt="image" src="https://github.com/user-attachments/assets/5223eeaf-53ca-4eaf-86c9-c858a8597f45" />
+
+<img width="893" height="390" alt="image" src="https://github.com/user-attachments/assets/241baa85-e281-4f82-8148-9dba7c711052" />
 
 ---
 
@@ -230,15 +237,12 @@ single `{'error': {'code', 'message', 'field'}}` shape.
 envelope; all error responses follow the standardised format.
 
 **Output Screenshots:**
-<img width="1118" height="632" alt="image" src="https://github.com/user-attachments/assets/dfc20045-8054-44ec-b5cf-f002320a3a6f" />
 
-<img width="1126" height="642" alt="image" src="https://github.com/user-attachments/assets/b69c54cf-989c-4700-93e8-7a12750f1605" />
+<img width="898" height="407" alt="image" src="https://github.com/user-attachments/assets/5822ce02-2d3a-4bbb-8837-b4857b4c2d1b" />
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/48b5ae68-fcb9-4fcf-b401-b1af8f7deb4e" />
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/b668090c-af07-4d81-9d79-a84756a1d1cd" />
+<img width="897" height="406" alt="image" src="https://github.com/user-attachments/assets/5669a397-c48d-4ed0-80b4-1aa10c3f7378" />
 
-
-
+<img width="898" height="403" alt="image" src="https://github.com/user-attachments/assets/638250cd-19e4-449e-bc8e-7f253a386e35" />
 
 
 ---
@@ -262,11 +266,11 @@ login implemented here.
 
 **Output Screenshots:**
 
-<img width="602" height="338" alt="image" src="https://github.com/user-attachments/assets/f0e28572-19be-4556-991c-08d59091ad71" />
+<img width="1001" height="535" alt="image" src="https://github.com/user-attachments/assets/0e665e9b-26fd-4f2a-8386-a2e3577ac5f7" />
 
-<img width="602" height="338" alt="image" src="https://github.com/user-attachments/assets/b6918490-d9fa-4435-ae05-b07f3be8e974" />
+<img width="987" height="530" alt="image" src="https://github.com/user-attachments/assets/00b692d6-9c44-4d97-8911-f37d33323306" />
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/ff536d62-3a37-49a4-a20c-b76a2610f604" />
+<img width="1335" height="581" alt="image" src="https://github.com/user-attachments/assets/ad8105db-5475-4c6f-91f3-3c8e59e6bc42" />
 
 ---
 
@@ -291,7 +295,8 @@ Service; stopping Course Service causes the enrollment endpoint to return 503.
 
 **Output Screenshots:**
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/016749e2-6634-43f7-a7c0-7aff6ae789ec" />
+<img width="1266" height="687" alt="image" src="https://github.com/user-attachments/assets/9a257504-d1aa-4384-8433-77834c595f77" />
+
 
 
 
